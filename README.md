@@ -1,4 +1,3 @@
-#PRODIGY_DS_02
 
 Prodigy InfoTech Internship(TrackCode - DS)
 
